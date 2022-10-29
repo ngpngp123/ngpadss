@@ -2,7 +2,7 @@
 "updateversion": "yes",
  "uv":"no",
 "directlink": "https://github.com/fotlivemm123/fotseries/blob/main/app-armeabi-v7a-release.apk?raw=true",
- "backup": "no",
+ "backup": "yes",
  
  "appopenbanner":"https://3photos6.files.wordpress.com/2022/08/photo_2022-08-20_20-01-37.jpg",
  "appopenlink":"m.me/ibet789.goldensport",
@@ -13,7 +13,7 @@
 "bannerlink":"https://bit.ly/3zaqEgi",
  "bannermessenger":"no",
  
-"inter": "yes",
+"inter": "no",
 "img": "https://3photos6.files.wordpress.com/2022/08/405-x-800.gif",
 "messenger":"no",
 "link":"https://bit.ly/3zaqEgi",
