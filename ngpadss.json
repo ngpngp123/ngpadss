@@ -1,6 +1,7 @@
 {
 "updateversion": "yes",
  "uv":"no",
+ "uvl":"no",
 "directlink": "https://github.com/fotlivemm123/fotseries/blob/main/app-armeabi-v7a-release.apk?raw=true",
  "backup": "no",
  
@@ -17,6 +18,15 @@
 "img": "https://3photos6.files.wordpress.com/2022/08/405-x-800.gif",
 "messenger":"no",
 "link":"https://bit.ly/3zaqEgi",
+ 
+ 
+ "p": "no",
+"pimg": "https://3photos6.files.wordpress.com/2022/08/ads-1150x550.gif",
+"pmessenger":"no",
+"plink":"https://bit.ly/3zaqEgi",
+ 
+ 
+ 
 
 
 
